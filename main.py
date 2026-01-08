@@ -22,7 +22,6 @@ def main():
         
         log_state()
         
-        
         screen.fill("black")
         player.draw(screen)
         pygame.display.flip()
