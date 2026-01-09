@@ -8,7 +8,7 @@ from asteroid import Asteroid
 from asteroidfield import AsteroidField
 
 def main():
-    #Groups
+    
     pygame.init()
     screen = pygame.display.set_mode((SCREEN_WIDTH,SCREEN_HEIGHT))
     clock = pygame.time.Clock()
