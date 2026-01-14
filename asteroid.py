@@ -20,8 +20,8 @@ class Asteroid(CircleShape):
             return
         
         # log splitting event of asteroid
-        log_event("asteroid split")
-        
+        log_event("asteroid_split")
+
         angle = random.randint(20,50)
         #new velocities for new split asteroids
         velocity1 = self.velocity.rotate(angle)
