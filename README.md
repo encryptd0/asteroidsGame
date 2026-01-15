@@ -1,4 +1,3 @@
-````
 # Asteroid Shooter Game
 
 **Python · Pygame · UV Package Manager**
@@ -106,4 +105,5 @@ The game will exit automatically if the player collides with an asteroid.
 ## License
 
 MIT License
+
 
